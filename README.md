@@ -1,0 +1,2 @@
+# nofap
+NoFap streak counter.
