@@ -5,7 +5,7 @@ from datetime import datetime
 
     
 def find_nearest(array, value):
-    array = numpy.asarray(array)
+    array = numpy.asarray([x for x in array if x > value])
     idx = (numpy.abs(array - value)).argmin()
     return array[idx]
 
