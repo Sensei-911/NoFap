@@ -1,5 +1,7 @@
 # Nofap Streak Counter
-Basic streak counter with goal tracker for NoFap challengers.
+Basic streak counter with goal tracker for NoFap challengers. 
+
+**This repository is here to encourage men who want to change their lives and let them know they are not alone.**
 ### What's NoFap
 NoFap is a website and community forum that serves as a support group for those who wish to give up pornography and masturbation. Its name comes from the slang term fap, referring to male masturbation. ([source](https://en.wikipedia.org/wiki/NoFap))
 
